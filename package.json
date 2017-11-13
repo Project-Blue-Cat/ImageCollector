@@ -1,0 +1,15 @@
+{
+  "name"         : "collection",
+  "version"      : "0.0.1",
+  "description"  : "",
+  "main"         : "app.js",
+  "author"       : "",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "fs"         : "latest",
+    "@google-cloud/datastore": "~1.0.2",
+    "@google-cloud/storage": "~1.1.0",
+    "@google-cloud/pubsub": "0.13.2"
+  }
+}
